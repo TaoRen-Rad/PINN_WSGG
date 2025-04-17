@@ -7,10 +7,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Output files
-*.png
-*.pdf
-
 # Virtual environment
 venv/
 env/
