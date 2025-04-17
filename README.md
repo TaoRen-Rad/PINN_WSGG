@@ -26,6 +26,10 @@ This will:
 3. Compare results with LBL solution
 4. Generate comparison plots
 
+## Demo Output
+
+![Demo Output](demo.png)
+
 ## Project Structure
 
 ```
