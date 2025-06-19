@@ -47,6 +47,26 @@ data/               # Output data
     └── results.npy   # Comparison results
 ```
 
+## Cite as
+
+If you use PINN-WSGG in your research, please cite as follows,
+
+```bibtex
+@article{chenDevelopmentValidationPhysicsinformed2025,
+  title = {Development and Validation of a Physics-Informed Neural Network-Based {{WSGG}} Model for Multi-Species Gas Mixtures},
+  author = {Chen, Wei and Yang, Runze and Ren, Tao and Zhao, Changying},
+  year = {2025},
+  month = nov,
+  journal = {International Journal of Heat and Mass Transfer},
+  volume = {251},
+  pages = {127328},
+  issn = {0017-9310},
+  doi = {10.1016/j.ijheatmasstransfer.2025.127328},
+}
+```
+
+W. Chen, R. Yang, T. Ren, and C. Zhao, "Development and validation of a physics-informed neural network-based WSGG model for multi-species gas mixtures," *International Journal of Heat and Mass Transfer*, vol. 251, p. 127328, Nov. 2025, doi: 10.1016/j.ijheatmasstransfer.2025.127328.
+
 ## License
 
 MIT License - See LICENSE file for details.
